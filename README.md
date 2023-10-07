@@ -1,7 +1,11 @@
+
+>
+> **Note:** This repository has been archived. See [bia-bob](https://github.com/haesleinhuepf/bia-bob) to learn how this project continued.
+>
+
 # bia-tischi
 
 BIA `tischi` is a Jupyter-based assistant for interacting with data using generated python code. 
-
 
 ## Known issues
 
